@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "7f2caee4-5eee-47c4-b0f8-73d37eed6b44",
+    "Name": "OmnOfficeInTag",
+    "ModifiedOnUtc": "\/Date(1645107485000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег в записи раздела Офис",
+    "DependsOn": []
+  }
+}

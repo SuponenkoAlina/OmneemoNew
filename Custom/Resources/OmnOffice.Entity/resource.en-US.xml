@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Object" />
+			<Item Name="Columns.OmnNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.OmnOfficeCity.Caption" Value="Город" />
+			<Item Name="Columns.OmnOfficeName.Caption" Value="Название" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

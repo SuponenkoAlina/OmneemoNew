@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "7ec390ed-dfae-4af3-8002-a58eade376a5",
+    "Name": "OmnOffice1Page",
+    "ModifiedOnUtc": "\/Date(1645106243000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Офис\"",
+    "DependsOn": []
+  }
+}

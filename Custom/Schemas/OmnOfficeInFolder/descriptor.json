@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b578e154-67da-4366-8301-52674d516e35",
+    "Name": "OmnOfficeInFolder",
+    "ModifiedOnUtc": "\/Date(1645107481000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Офис в группе",
+    "DependsOn": []
+  }
+}
